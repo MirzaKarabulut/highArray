@@ -1,3 +1,5 @@
+HIGH ARRAY
+
 (1) To the HighArray class, add a method called duplicatesExistAtRight() that takes one parameter,
 say k, of type int; and returns true if the key of any item from the item at index k + 1 to the last item
 in the array is equal to the key of the item at index k, and returns false otherwise. The method should
