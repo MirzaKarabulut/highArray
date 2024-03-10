@@ -1,4 +1,4 @@
-HIGH ARRAY
+# HIGH ARRAY
 
 (1) To the HighArray class, add a method called duplicatesExistAtRight() that takes one parameter,
 say k, of type int; and returns true if the key of any item from the item at index k + 1 to the last item
